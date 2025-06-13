@@ -1,9 +1,13 @@
-@import url('/assets/css/reset.css');
-@import url('/assets/css/global.css');
-@import url('/assets/css/components/_navigator.css');
-@import url('/assets/css/components/_pills.css');
-@import url('/assets/css/components/_link-button.css');
-@import url('/assets/css/components/_gallery.css');
+/* internal.css está em assets/css/ */
+/* reset.css e global.css estão na mesma pasta (assets/css/) */
+@import url('reset.css');
+@import url('global.css');
+
+/* A pasta 'components' está dentro da mesma pasta (assets/css/) */
+@import url('components/_navigator.css');
+@import url('components/_pills.css');
+@import url('components/_link-button.css');
+@import url('components/_gallery.css');
 
 .s-wrapper {
   display: flex;
