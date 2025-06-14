@@ -1,7 +1,6 @@
--
-## Página de Fãs do Aranhaverso 🕷️
+## Aranhaverso Spiderman Liveaction 🕷️
 
-Este projeto é uma página de fãs dedicada ao universo do Homem-Aranha, apresentando informações sobre vários Homens-Aranha live-action. Ele começou como um projeto base e foi significativamente aprimorado com novo conteúdo e correções.
+Este projeto é uma página de fãs dedicada ao universo do Homem-Aranha, apresentando informações sobre vários Homens-Aranha em suas versões live-action. Ele começou como um projeto base e foi significativamente aprimorado com novo conteúdo e correções.
 
 -----
 
